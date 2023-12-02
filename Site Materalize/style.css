@@ -1,0 +1,19 @@
+
+
+html {font-family: arial;}
+p{font-weight: 600;}
+
+
+
+/*aqui.html CSS*/
+.aqui{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.fulls{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
